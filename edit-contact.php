@@ -131,7 +131,7 @@ Farooq Colony, Chishtian, Street No. 09, District Bahawalnagar</textarea
 
         <div class="form-buttons">
           <button type="submit" class="btn">Update Contact</button>
-          <a href="index.html" class="btn">Cancel</a>
+          <a href="index.php" class="btn">Cancel</a>
         </div>
       </form>
     </div>

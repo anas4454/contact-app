@@ -61,7 +61,7 @@
 
       <div class="form-buttons">
         <button class="btn">Delete</button>
-        <a href="index.html" class="btn">Cancel</a>
+        <a href="index.php" class="btn">Cancel</a>
       </div>
     </div>
   </body>
